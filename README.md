@@ -63,7 +63,7 @@ Inclua aqui a licença do projeto (por exemplo, MIT, Apache-2.0). Se ainda não 
 
 ## Contato
 
-Gabriel Montb — https://github.com/gabrielmontb
+Gabriel Montserrat — https://github.com/gabrielmontb
 
 ---
 
