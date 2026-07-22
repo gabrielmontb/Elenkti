@@ -52,7 +52,7 @@ Sistema Elenktí para automatizar a portaria de retirada de equipamentos da UFV-
 
 ## Licença
 
-Inclua aqui a licença do projeto (por exemplo, MIT, Apache-2.0). Se ainda não definiu uma, adicione um arquivo `LICENSE` com a licença desejada.
+Projeto para fins acadêmicos. Sinta-se a vontade para utiliza-lo como base para projetos próprios.
 
 ## Contato
 
