@@ -49,13 +49,6 @@ Sistema Elenktí para automatizar a portaria de retirada de equipamentos da UFV-
 - `build.xml` - script de build Ant
 - `BANCO_DADOS.md` - descrição e instruções do banco de dados
 
-## Como contribuir
-
-1. Abra uma issue descrevendo a melhoria ou bug.
-2. Crie um branch com um nome descritivo: `feature/minha-melhora` ou `fix/bug-xyz`.
-3. Abra um pull request explicando as mudanças.
-
-Sinta-se à vontade para abrir issues pedindo orientação antes de começar alterações maiores.
 
 ## Licença
 
